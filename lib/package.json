@@ -2,7 +2,7 @@
   "name": "@gp-technical/material-date-range",
   "version": "0.1.1",
   "description": "React components, that implements material design pickers for material-ui v1",
-  "main": "dist/material-ui-pickers.cjs.js",
+  "main": "build/dist/material-ui-pickers.cjs.js",
   "module": "dist/material-ui-pickers.esm.js",
   "types": "src/index.d.ts",
   "keywords": [
