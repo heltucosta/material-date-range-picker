@@ -5,27 +5,32 @@
     "gzipped": 3438
   },
   "build/dist/material-ui-pickers.esm.js": {
-    "bundled": 20125,
-    "minified": 11835,
-    "gzipped": 3362,
+    "bundled": 20157,
+    "minified": 11863,
+    "gzipped": 3374,
     "treeshaked": {
       "rollup": {
-        "code": 9222,
+        "code": 9250,
         "import_statements": 1235
       },
       "webpack": {
-        "code": 11467
+        "code": 11495
       }
     }
   },
   "build/dist/material-date-range-picker.umd.js": {
-    "bundled": 1047157,
-    "minified": 338756,
-    "gzipped": 89757
+    "bundled": 1047189,
+    "minified": 338784,
+    "gzipped": 89772
   },
   "build/dist/material-date-range-picker.umd.min.js": {
-    "bundled": 932621,
-    "minified": 298949,
-    "gzipped": 80011
+    "bundled": 932653,
+    "minified": 298977,
+    "gzipped": 80026
+  },
+  "build/build/dist/material-ui-pickers.cjs.js": {
+    "bundled": 21265,
+    "minified": 12839,
+    "gzipped": 3453
   }
 }
