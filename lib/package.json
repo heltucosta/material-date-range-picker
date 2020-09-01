@@ -1,5 +1,5 @@
 {
-  "name": "material-date-range-picker",
+  "name": "@gp-technical/material-date-range",
   "version": "0.1.1",
   "private": true,
   "description": "React components, that implements material design pickers for material-ui v1",
