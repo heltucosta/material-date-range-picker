@@ -1,8 +1,8 @@
 {
   "build/dist/material-ui-pickers.cjs.js": {
-    "bundled": 21233,
-    "minified": 12811,
-    "gzipped": 3438
+    "bundled": 21265,
+    "minified": 12839,
+    "gzipped": 3453
   },
   "build/dist/material-ui-pickers.esm.js": {
     "bundled": 20157,
@@ -29,6 +29,11 @@
     "gzipped": 80026
   },
   "build/build/dist/material-ui-pickers.cjs.js": {
+    "bundled": 21265,
+    "minified": 12839,
+    "gzipped": 3453
+  },
+  "build/build/build/dist/material-ui-pickers.cjs.js": {
     "bundled": 21265,
     "minified": 12839,
     "gzipped": 3453
